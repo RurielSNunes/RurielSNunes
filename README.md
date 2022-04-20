@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RurielSNunes
 - 👀 I’m interested in aprender
 - 🌱 I’m currently learning  JAVA
-- 💞️ I’m looking to collaborate on  em conhecimento
+- 💞️ I’m looking to collaborate on  em conhecimento, dev
 - 📫 How to reach me 
 
 <!---
